@@ -5,7 +5,7 @@ from pathlib import Path
 
 # -- Variables -- #
 list_2_delete = []
-FOLDER_IMAGES = r"C:\Escritorio Viejo\Primera entrega de programacion\Inmobiliaria\bin\Debug\resources\Maldonado"
+FOLDER_IMAGES = r"C:\Images"
 EXTENSION     = "jpg"       
 
 # --- Functions -- #
